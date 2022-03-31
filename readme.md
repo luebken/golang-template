@@ -1,0 +1,1 @@
+my golang template for new projects
